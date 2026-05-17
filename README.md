@@ -9,7 +9,12 @@ A production-grade full-stack task management application with JWT authenticatio
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your Login, Tasks, and Analytics pages here)*
+> <img width="1406" height="929" alt="Screenshot 2026-05-17 150649" src="https://github.com/user-attachments/assets/02ba1b6a-aaca-4652-8f86-1c314b3b859c" />
+<img width="1403" height="926" alt="Screenshot 2026-05-17 150632" src="https://github.com/user-attachments/assets/e76e6164-d912-4a68-b077-97fbd63601f5" />
+<img width="1409" height="929" alt="Screenshot 2026-05-17 150618" src="https://github.com/user-attachments/assets/afdcfa27-328d-4783-9ccd-c818c324ebfc" />
+<img width="655" height="571" alt="Screenshot 2026-05-17 150556" src="https://github.com/user-attachments/assets/e4d71258-7d85-4f47-b057-a118c8802b7a" />
+<img width="760" height="628" alt="Screenshot 2026-05-17 150235" src="https://github.com/user-attachments/assets/1d147982-8caf-4ab0-b781-0771c91c8b35" />
+
 
 ---
 
